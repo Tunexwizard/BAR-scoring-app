@@ -1,6 +1,7 @@
 # 📊 Bi-Annual Performance Scorer
 
 A specialized Python web application built with **Streamlit** to automate the calculation and formatting of employee performance reviews. 
+Make sure Each staff score goes as NAME's ACCESSMENT SCORE
 
 ## 🚀 Purpose
 This tool was created to solve the manual task of parsing raw performance feedback text. It identifies employee ratings, applies specific weights to 10 key performance questions, and generates a professionally formatted report with weighted totals.
@@ -23,4 +24,5 @@ To run this project on your own machine:
 
 1. **Clone the repository:**
    ```bash
+
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
